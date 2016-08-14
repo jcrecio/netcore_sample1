@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assemblies>
+  <assembly name="test.dll" environment="64-bit .NET (unknown version) [collection-per-class, parallel (4 threads)]" test-framework="xUnit.net 2.2.0.3300" run-date="2016-08-14" run-time="15:22:01" total="6" passed="6" failed="0" skipped="0" time="0.208" errors="0">
+    <errors />
+    <collection total="6" passed="6" failed="0" skipped="0" name="Test collection for FibonacciTests.FibonacciGenerator+Generate" time="0.024">
+      <test name="FibonacciTests.FibonacciGenerator+Generate.Should_Return_2_When_FourthNumberInSerie_IsCalculated" type="FibonacciTests.FibonacciGenerator+Generate" method="Should_Return_2_When_FourthNumberInSerie_IsCalculated" time="0.0126605" result="Pass" />
+      <test name="FibonacciTests.FibonacciGenerator+Generate.Should_Return_1_When_SecondNumberInSerie_IsCalculated" type="FibonacciTests.FibonacciGenerator+Generate" method="Should_Return_1_When_SecondNumberInSerie_IsCalculated" time="0.0002856" result="Pass" />
+      <test name="FibonacciTests.FibonacciGenerator+Generate.Should_Return_Empty_When_IndexZeroNumber_IsCalculated" type="FibonacciTests.FibonacciGenerator+Generate" method="Should_Return_Empty_When_IndexZeroNumber_IsCalculated" time="0.0099903" result="Pass" />
+      <test name="FibonacciTests.FibonacciGenerator+Generate.Should_Return_2_When_ThirdNumberInSerie_IsCalculated" type="FibonacciTests.FibonacciGenerator+Generate" method="Should_Return_2_When_ThirdNumberInSerie_IsCalculated" time="0.0002919" result="Pass" />
+      <test name="FibonacciTests.FibonacciGenerator+Generate.Should_Return_1_When_FirstNumberInSerie_IsCalculated" type="FibonacciTests.FibonacciGenerator+Generate" method="Should_Return_1_When_FirstNumberInSerie_IsCalculated" time="0.000269" result="Pass" />
+      <test name="FibonacciTests.FibonacciGenerator+Generate.Should_Return_3_When_FourthNumberInSerie_IsCalculated" type="FibonacciTests.FibonacciGenerator+Generate" method="Should_Return_3_When_FourthNumberInSerie_IsCalculated" time="0.0002379" result="Pass" />
+    </collection>
+  </assembly>
+</assemblies>
